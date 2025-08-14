@@ -75,5 +75,8 @@ cd <repo-name>
 
 
 
+
+
+
 ### Project Screenshot
-![Screenshot 9](docs/Screenshot_9.jpg)
+![Screenshot 9](Screenshot_9.jpg)
