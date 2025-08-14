@@ -75,12 +75,12 @@ cd <repo-name>
 
 
 ### Project Screenshots
-![Screenshot](Screenshot_1.jpg)
-![Screenshot](Screenshot_2.jpg)
-![Screenshot](Screenshot_3.jpg)
-![Screenshot](Screenshot_4.jpg)
-![Screenshot](Screenshot_5.jpg)
-![Screenshot](Screenshot_6.jpg)
-![Screenshot](Screenshot_7.jpg)
-![Screenshot](Screenshot_8.jpg)
-![Screenshot](Screenshot_9.jpg)
+![Screenshot 1](docs/Screenshot_1.jpg)
+![Screenshot 2](docs/Screenshot_2.jpg)
+![Screenshot 3](docs/Screenshot_3.jpg)
+![Screenshot 4](docs/Screenshot_4.jpg)
+![Screenshot 5](docs/Screenshot_5.jpg)
+![Screenshot 6](docs/Screenshot_6.jpg)
+![Screenshot 7](docs/Screenshot_7.jpg)
+![Screenshot 8](docs/Screenshot_8.jpg)
+![Screenshot 9](docs/Screenshot_9.jpg)
