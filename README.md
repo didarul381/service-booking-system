@@ -80,3 +80,11 @@ A Postman collection is provided in the `docs/` folder:
 ![Screenshot](Screenshot_8.jpg)
 ![Screenshot](Screenshot_9.jpg)
 
+
+
+## Installation & Setup
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/<your-username>/<repo-name>.git
+cd <repo-name>
