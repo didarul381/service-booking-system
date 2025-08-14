@@ -77,6 +77,4 @@ cd <repo-name>
 
 
 
-
-### Project Screenshot
-![Screenshot 9](Screenshot_9.jpg)
+![Screenshot 8](https://raw.githubusercontent.com/didarul381/service-booking-system/master-branch/Screenshot_8.jpg)
