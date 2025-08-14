@@ -11,7 +11,7 @@ class RegisterRequest extends FormRequest
      */
     public function authorize(): bool
     {
-        return false;
+        return true; // allow everyone
     }
 
     /**
@@ -19,10 +19,11 @@ class RegisterRequest extends FormRequest
      *
      * @return array<string, \Illuminate\Contracts\Validation\ValidationRule|array<mixed>|string>
      */
-    public function rules(): array
-    {
-        return [
-            //
-        ];
+    public function rules(){
+       return [
+           'name'=>'required|string|max:255',
+           'email'=>'required|email|unique:users,email',
+           'password'=>'required|string|min:6|confirmed'
+       ];
     }
 }

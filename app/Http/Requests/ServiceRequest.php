@@ -11,7 +11,8 @@ class ServiceRequest extends FormRequest
      */
     public function authorize(): bool
     {
-        return false;
+        //  return auth()->user() && auth()->user()->role === 'admin';
+         return true;
     }
 
     /**
@@ -19,10 +20,6 @@ class ServiceRequest extends FormRequest
      *
      * @return array<string, \Illuminate\Contracts\Validation\ValidationRule|array<mixed>|string>
      */
-    public function rules(): array
-    {
-        return [
-            //
-        ];
-    }
+    public function rules(){ return ['name'=>'required|string','description'=>'nullable|string','price'=>'required|numeric','status'=>'required|in:active,inactive']; }
+
 }

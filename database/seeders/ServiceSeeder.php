@@ -2,16 +2,25 @@
 
 namespace Database\Seeders;
 
-use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
+use App\Models\Service;
 
 class ServiceSeeder extends Seeder
 {
-    /**
-     * Run the database seeds.
-     */
-    public function run(): void
+    public function run()
     {
-        //
+        Service::create([
+            'name' => 'Cleaning',
+            'description' => 'House Cleaning',
+            'price' => 100,
+            'status' => 'active'
+        ]);
+
+        Service::create([
+            'name' => 'Plumbing',
+            'description' => 'Pipe fixing',
+            'price' => 150,
+            'status' => 'active'
+        ]);
     }
 }

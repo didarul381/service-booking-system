@@ -11,7 +11,7 @@ class BookingRequest extends FormRequest
      */
     public function authorize(): bool
     {
-        return false;
+        return true;
     }
 
     /**
@@ -19,10 +19,6 @@ class BookingRequest extends FormRequest
      *
      * @return array<string, \Illuminate\Contracts\Validation\ValidationRule|array<mixed>|string>
      */
-    public function rules(): array
-    {
-        return [
-            //
-        ];
-    }
+    public function rules(){ return ['service_id'=>'required|exists:services,id','booking_date'=>'required|date|after_or_equal:today']; }
+
 }
