@@ -65,16 +65,18 @@ A Postman collection is provided in the `docs/` folder:
   2. Copy Bearer token into `{{token}}`
   3. Test customer and admin routes
 
-## Installation & Setup
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
 
 
 
 
 
+![Screenshot](Screenshot_1.jpg)
+![Screenshot](Screenshot_2.jpg)
+![Screenshot](Screenshot_3.jpg)
+![Screenshot](Screenshot_4.jpg)
+![Screenshot](Screenshot_5.jpg)
+![Screenshot](Screenshot_6.jpg)
+![Screenshot](Screenshot_7.jpg)
+![Screenshot](Screenshot_8.jpg)
+![Screenshot](Screenshot_9.jpg)
 
-![Screenshot 8](https://raw.githubusercontent.com/didarul381/service-booking-system/master-branch/Screenshot_8.jpg)
