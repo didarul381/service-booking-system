@@ -73,14 +73,14 @@ git clone https://github.com/<your-username>/<repo-name>.git
 cd <repo-name>
 
 
-### Project Screenshots
 
-![Screenshot 1](https://raw.githubusercontent.com/didarul381/service-booking-system/main/Screenshot_1.jpg)
-![Screenshot 2](https://raw.githubusercontent.com/didarul381/service-booking-system/main/Screenshot_2.jpg)
-![Screenshot 2](https://raw.githubusercontent.com/didarul381/service-booking-system/main/Screenshot_3.jpg)
-![Screenshot 2](https://raw.githubusercontent.com/didarul381/service-booking-system/main/Screenshot_4.jpg)
-![Screenshot 2](https://raw.githubusercontent.com/didarul381/service-booking-system/main/Screenshot_5.jpg)
-![Screenshot 2](https://raw.githubusercontent.com/didarul381/service-booking-system/main/Screenshot_6.jpg)
-![Screenshot 2](https://raw.githubusercontent.com/didarul381/service-booking-system/main/Screenshot_7.jpg)
-![Screenshot 2](https://raw.githubusercontent.com/didarul381/service-booking-system/main/Screenshot_8.jpg)
-![Screenshot 2](https://raw.githubusercontent.com/didarul381/service-booking-system/main/Screenshot_9.jpg)
+### Project Screenshots
+![Screenshot](Screenshot_1.jpg)
+![Screenshot](Screenshot_2.jpg)
+![Screenshot](Screenshot_3.jpg)
+![Screenshot](Screenshot_4.jpg)
+![Screenshot](Screenshot_5.jpg)
+![Screenshot](Screenshot_6.jpg)
+![Screenshot](Screenshot_7.jpg)
+![Screenshot](Screenshot_8.jpg)
+![Screenshot](Screenshot_9.jpg)
